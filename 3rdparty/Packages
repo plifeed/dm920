@@ -59,7 +59,7 @@ Architecture: all
 Maintainer: AMA-Jamry
 MD5Sum: b951a1275a04c4646e5a5ccf7bb658c0
 SHA256sum: cf2659a834a9dcb407de6b9be0f04b8dfe5552fe3e3fcf7e9231c7a0418060f9
-Size: 348626
+Size: 366162
 Filename: enigma2-plugin-extensions-ajpanel_v8.7.0_all.ipk
 Source: enigma2-plugin-extensions-ajpanel.bb
 Description: Panel Tools 4 Enigma2
