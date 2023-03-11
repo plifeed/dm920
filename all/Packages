@@ -499,9 +499,9 @@ Version: 1+git4454+1e4c317-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b8849e19352035d69db0efad1b06a642
-SHA256sum: 0af3d4fb0d96bd089a79b87cd6a33d52e6f2303a441a836f576cee2926f3fdfb
-Size: 726
+MD5Sum: ce8ee6f2c746ac5fe5eee64f595b6b9d
+SHA256sum: 08cbcda9b46a042468acf5084a2a434f1577c847864795c0f9cfbdd620b5d191
+Size: 724
 Filename: enigma2-plugin-extensions-e2iplayer-dbg_1+git4454+1e4c317-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Debugging files
@@ -516,9 +516,9 @@ Recommends: cmdwrapper-dev, duktape-dev, enigma2-plugin-extensions-e2iplayer (= 
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 35b4a62a2d5cfa68e6d94d79935429ed
-SHA256sum: bbb40ae7c9a0e94035da059c44965a81fbf2b61dce34dbc374c2c7dc0b7f9873
-Size: 868
+MD5Sum: b955f9a3f2a037701eb3044261050872
+SHA256sum: 7fa1e8cb0cc99c8e3c8f5f123f766065a6c178f43ac593ebc78f6086e2b567ab
+Size: 866
 Filename: enigma2-plugin-extensions-e2iplayer-dev_1+git4454+1e4c317-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Development files
@@ -533,9 +533,9 @@ Depends: cmdwrapper, duktape, exteplayer3, f4mdump, ffmpeg, gst-ifdsrc, gstplaye
 Section: multimedia
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7498f80abc282f3aa5a70143d27638be
-SHA256sum: 68d2a0b0dc6d641453f8e403f75df372e2d35fa954eb1f463f09a6993d9c7ba9
-Size: 7777686
+MD5Sum: 743cadfcd976f7e347db398ba5e4fe51
+SHA256sum: 497f12b36dbed43fc84ca14f6b0ce7f7a242787ad9f8bd4e140e8980d24684a7
+Size: 7777628
 Filename: enigma2-plugin-extensions-e2iplayer_1+git4454+1e4c317-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2
@@ -2727,8 +2727,8 @@ Version: 2.0+git3+d4891f7-r0
 Section: devel
 Architecture: all
 Maintainer: Cino
-MD5Sum: 1322821d2cf72ef1d5ee9c837552decf
-SHA256sum: 395753ec0f1546738391b3e7b9373f47879830d9e8898107541fa45de14d127b
+MD5Sum: e6879598b6450884a3e2a189afaa6b37
+SHA256sum: 3d257efd92b0e34334eb157158ab1ca0e23f051db569cb43b10ba6ccb11dc4da
 Size: 704
 Filename: enigma2-plugin-skins-cinogriplifhd-dbg_2.0+git3+d4891f7-r0_all.ipk
 Source: enigma2-plugin-skins-cinogriplifhd.bb
@@ -2743,8 +2743,8 @@ Recommends: enigma2-plugin-skins-cinogriplifhd (= 2.0+git3+d4891f7-r0)
 Section: devel
 Architecture: all
 Maintainer: Cino
-MD5Sum: 0192fba61bbfa0ad4a976ab210714722
-SHA256sum: 21c43f5dabdd01565080d31e2979346657d8c4e8b5072d098ef8e3096e776bd3
+MD5Sum: 089d4457301bf0cf6333cc76f686716d
+SHA256sum: 3cf9b47311b6c39c018ad4932f8d5ea1d55f699299baf62be99f992c47b436f5
 Size: 742
 Filename: enigma2-plugin-skins-cinogriplifhd-dev_2.0+git3+d4891f7-r0_all.ipk
 Source: enigma2-plugin-skins-cinogriplifhd.bb
@@ -2759,9 +2759,9 @@ Recommends: enigma2-plugin-extensions-weatherplugin
 Section: base
 Architecture: all
 Maintainer: Cino
-MD5Sum: 9f55c59dbf7691085ff62886474867d5
-SHA256sum: ec0c33910021a7a914d840eda9e8eb5e5bf6e42303e20277de6d0cd5407ce748
-Size: 1053436
+MD5Sum: bde7f439e73d015bd0ca60db4e5140ae
+SHA256sum: 3b8f4a129c15e845b43025dfcccf9344a4112377ed97cbd4014a311d2dcbc156
+Size: 1053500
 Filename: enigma2-plugin-skins-cinogriplifhd_2.0+git3+d4891f7-r0_all.ipk
 Source: enigma2-plugin-skins-cinogriplifhd.bb
 Description: enigma2-plugin-skins-cinogriplifhd version 2.0+gitAUTOINC+d4891f7015-r0
