@@ -2894,32 +2894,32 @@ License: GPL-3.0-only
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd-dbg
-Version: 0.1+git36+eab349a-r0
+Version: 0.1+git37+8917328-r0
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 5f42740384100e7ad3481edda45867fd
-SHA256sum: 6732947569b5da14a300ac56cb6fb5e9044207be89af5ef572c92210b28089a5
-Size: 672
-Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git36+eab349a-r0_all.ipk
+MD5Sum: b89071cbb76ee4c81b3e7e8924a9308d
+SHA256sum: ce2609419471ec657ce7d6c5ba638f44bf8d89c464ddac57c5abe7c5076c8f84
+Size: 674
+Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git37+8917328-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
-Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+eab349a4b8-r0 - Debugging files
+Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+8917328a48-r0 - Debugging files
 OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd-dev
-Version: 0.1+git36+eab349a-r0
-Recommends: enigma2-plugin-skins-pli-hd (= 0.1+git36+eab349a-r0)
+Version: 0.1+git37+8917328-r0
+Recommends: enigma2-plugin-skins-pli-hd (= 0.1+git37+8917328-r0)
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: d66da178b2ce708b6f4809fc133eb06d
-SHA256sum: a58a92c918ab2312054ac6826f05517b26215bbae170dbdeeb6992bb9d4660d0
+MD5Sum: a73bfad9010baf1ae0296979f91b7217
+SHA256sum: a04d1e53a04bd49a525f66c4e3538f3913b3dde3bb653b0ce306063818a4587b
 Size: 710
-Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git36+eab349a-r0_all.ipk
+Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git37+8917328-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
-Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+eab349a4b8-r0 - Development files
+Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+8917328a48-r0 - Development files
 OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
@@ -2971,16 +2971,16 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd
-Version: 0.1+git36+eab349a-r0
+Version: 0.1+git37+8917328-r0
 Section: base
 Architecture: all
 Maintainer: littlesat
-MD5Sum: ba698a9e1116a1f50284e16e21573693
-SHA256sum: 4690f4638a72d75016177b82fe01fb0c1a7ac32dc34de6211ba5832fdaa12a7b
-Size: 528938
-Filename: enigma2-plugin-skins-pli-hd_0.1+git36+eab349a-r0_all.ipk
+MD5Sum: a6b9dfc16eba4bd67711f8851dc13ef5
+SHA256sum: 871a478b3e6ac61338a8f0ee3f08de04d2958a1256dd64ecca691894de8aa9ca
+Size: 540350
+Filename: enigma2-plugin-skins-pli-hd_0.1+git37+8917328-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
-Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+eab349a4b8-r0
+Description: enigma2-plugin-skins-pli-hd version 0.1+gitAUTOINC+8917328a48-r0
 OE: enigma2-plugin-skins-pli-hd
 License: Proprietary
 Priority: optional
