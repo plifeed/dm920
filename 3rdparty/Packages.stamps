@@ -2,6 +2,7 @@
 1676851072 directfb_1.7.7-r0_dm920.ipk
 1676851072 enigma2-oe-alliance-plugins_7.2+gitr3275+a102105-r1_dm920.ipk
 1676851072 enigma2-plugin-extensions-ajpanel_v8.7.0_all.ipk
+1676851072 enigma2-plugin-extensions-dreamsatpanel_1.5_all.ipk
 1676851072 enigma2-plugin-extensions-e2m3u2bouquet_0.9+git1+d486022-r1_all.ipk
 1676851072 enigma2-plugin-extensions-epgtranslator_7.2+gitr3275+a102105-r1_dm920.ipk
 1676851072 enigma2-plugin-extensions-footonsat_1.7_all.ipk
@@ -35,4 +36,3 @@
 1676851072 nodejs-npm_16.18.1-r0_cortexa15hf-neon-vfpv4.ipk
 1676851072 nodejs_16.18.1-r0_cortexa15hf-neon-vfpv4.ipk
 1676851072 tar_1.30-r0_cortexa15hf-neon-vfpv4.ipk
-

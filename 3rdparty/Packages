@@ -68,6 +68,23 @@ HomePage: https://github.com/biko-73/AjPanel
 License: none
 Priority: optional
 
+Package: enigma2-plugin-extensions-dreamsatpanel
+Version: 1.5
+Depends: python3-core
+Section: extra
+Architecture: all
+Maintainer: LINUXSAT
+MD5Sum: e3e7fd0b47d4de51a5237086c04dac39
+SHA256sum: c1bb79544bfcbfcaf6be9879c528d78c5a8e0f933fb9572924ad22fe7b3faba8
+Size: 2915756
+Filename: enigma2-plugin-extensions-dreamsatpanel_1.5_all.ipk
+Source: enigma2-plugin-extensions-dreamsatpanel.bb
+Description: DreamSatPanel Plugin - All You Need
+OE: enigma2-plugin-extensions-dreamsatpanel
+HomePage: http://ipkinstall.ath.cx/ipk-install/DreamSatPanel/
+License: none
+Priority: optional
+
 Package: enigma2-plugin-extensions-e2m3u2bouquet
 Version: 0.9+git1+d486022-r1
 Depends: python3-image, python3-pillow
@@ -614,5 +631,4 @@ Source: tar_debian.bb
 Filename: tar_1.30-r0_cortexa15hf-neon-vfpv4.ipk
 Size: 140594
 MD5Sum: f8ab4b176143bd8b858c729ac36a1101
-
 
