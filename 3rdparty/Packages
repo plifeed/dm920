@@ -510,42 +510,6 @@ Filename: libicuuc71_71.1-r0_cortexa15hf-neon-vfpv4.ipk
 Size: 475492
 MD5Sum: 777e74fc0fe44caaa07b577383c32c9c
 
-Package: libx264-164
-Version: r3039+git0+baee400fa9-r0
-Depends: libc6 (>= 2.37)
-Provides: x264
-Section: base
-Architecture: cortexa15hf-neon-vfpv4
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1c9c6cd3cd65d2fe15068df23084bb35
-SHA256sum: 16d941dbb0899269d0d20797bf1dfc993890d99a3d0306a9320a0643b6240e15
-Size: 307170
-Filename: libx264-164_r3039+git0+baee400fa9-r0_cortexa15hf-neon-vfpv4.ipk
-Source: x264_git.bb
-Description: H.264/MPEG-4 AVC video encoder
-OE: x264
-HomePage: http://www.videolan.org/developers/x264.html
-License: GPL-2.0-only
-Priority: optional
-
-Package: libx264-bin
-Version: r3039+git0+baee400fa9-r0
-Depends: libc6 (>= 2.37)
-Provides: x264-bin
-Section: base
-Architecture: cortexa15hf-neon-vfpv4
-Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 9e85a877f2da8ab9acd85c60462abf2c
-SHA256sum: 8ce1d878afc9468e97f3ec0cf78b5928817de0bb129db187f8ca5192483b898c
-Size: 340554
-Filename: libx264-bin_r3039+git0+baee400fa9-r0_cortexa15hf-neon-vfpv4.ipk
-Source: x264_git.bb
-Description: H.264/MPEG-4 AVC video encoder
-OE: x264
-HomePage: http://www.videolan.org/developers/x264.html
-License: GPL-2.0-only
-Priority: optional
-
 Package: libx265-179
 Version: 3.2.1-r0
 Depends: libc6 (>= 2.37), libgcc1 (>= 12.2.0), libstdc++6 (>= 12.2.0)
