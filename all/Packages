@@ -499,9 +499,9 @@ Version: 1+git4454+1e4c317-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ce8ee6f2c746ac5fe5eee64f595b6b9d
-SHA256sum: 08cbcda9b46a042468acf5084a2a434f1577c847864795c0f9cfbdd620b5d191
-Size: 724
+MD5Sum: b8849e19352035d69db0efad1b06a642
+SHA256sum: 0af3d4fb0d96bd089a79b87cd6a33d52e6f2303a441a836f576cee2926f3fdfb
+Size: 726
 Filename: enigma2-plugin-extensions-e2iplayer-dbg_1+git4454+1e4c317-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Debugging files
@@ -516,9 +516,9 @@ Recommends: cmdwrapper-dev, duktape-dev, enigma2-plugin-extensions-e2iplayer (= 
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b955f9a3f2a037701eb3044261050872
-SHA256sum: 7fa1e8cb0cc99c8e3c8f5f123f766065a6c178f43ac593ebc78f6086e2b567ab
-Size: 866
+MD5Sum: 35b4a62a2d5cfa68e6d94d79935429ed
+SHA256sum: bbb40ae7c9a0e94035da059c44965a81fbf2b61dce34dbc374c2c7dc0b7f9873
+Size: 868
 Filename: enigma2-plugin-extensions-e2iplayer-dev_1+git4454+1e4c317-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2 - Development files
@@ -533,9 +533,9 @@ Depends: cmdwrapper, duktape, exteplayer3, f4mdump, ffmpeg, gst-ifdsrc, gstplaye
 Section: multimedia
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 743cadfcd976f7e347db398ba5e4fe51
-SHA256sum: 497f12b36dbed43fc84ca14f6b0ce7f7a242787ad9f8bd4e140e8980d24684a7
-Size: 7777628
+MD5Sum: 7498f80abc282f3aa5a70143d27638be
+SHA256sum: 68d2a0b0dc6d641453f8e403f75df372e2d35fa954eb1f463f09a6993d9c7ba9
+Size: 7777686
 Filename: enigma2-plugin-extensions-e2iplayer_1+git4454+1e4c317-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2i Player for E2
@@ -692,14 +692,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity-dbg
-Version: git346+053cbc9-r1
+Version: git347+add42f3-r1
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 0e58cbfd0cf39590c7f5077153c6fe0d
-SHA256sum: b9c5b2befc5acd5b1e668574b3186b643ea3af15fa60e0a9eaa9ab124fcbc60b
-Size: 716
-Filename: enigma2-plugin-extensions-xstreamity-dbg_git346+053cbc9-r1_all.ipk
+MD5Sum: 657b0773f5a6a63dc6e2d8247c52ebcc
+SHA256sum: 0bc11dc1934767f493707d6322ed170b514d48a83b83f79d6992037832ea321d
+Size: 714
+Filename: enigma2-plugin-extensions-xstreamity-dbg_git347+add42f3-r1_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Debugging files
 OE: enigma2-plugin-extensions-xstreamity
@@ -708,15 +708,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity-dev
-Version: git346+053cbc9-r1
-Recommends: enigma2-plugin-extensions-xstreamity (= git346+053cbc9-r1), python3-dev, python3-imaging-dev, python3-multiprocessing-dev, python3-pillow-dev, python3-requests-dev
+Version: git347+add42f3-r1
+Recommends: enigma2-plugin-extensions-xstreamity (= git347+add42f3-r1), python3-dev, python3-imaging-dev, python3-multiprocessing-dev, python3-pillow-dev, python3-requests-dev
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 0f1d4c1d47c6af9e498a5700b75f2bce
-SHA256sum: 8a184aea8613352a2c9ef17737718dcd266a854ec4e78758f4cc544d47efb738
-Size: 792
-Filename: enigma2-plugin-extensions-xstreamity-dev_git346+053cbc9-r1_all.ipk
+MD5Sum: de788b47b3c0c86e58f1f0eb55fa7cca
+SHA256sum: 4f17d1dc878d0705bebc104c9da1cd8c96686382f82ebbb02932e531f2becf01
+Size: 790
+Filename: enigma2-plugin-extensions-xstreamity-dev_git347+add42f3-r1_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Development files
 OE: enigma2-plugin-extensions-xstreamity
@@ -725,14 +725,14 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity-src
-Version: git346+053cbc9-r1
+Version: git347+add42f3-r1
 Section: devel
 Architecture: all
 Maintainer: kiddac
-MD5Sum: d414db7afaa53c63d122839120077469
-SHA256sum: 99c86d91e7be8d1901d1163661cec20f06102f21aac8445ba3b4aeaf9098cb11
-Size: 55782
-Filename: enigma2-plugin-extensions-xstreamity-src_git346+053cbc9-r1_all.ipk
+MD5Sum: af09f5e647cff1edc73294c0671cc012
+SHA256sum: 1c56160a763ffcf09b6b44e4815cb8760df761a33ca8180725d3e9d7ff8bf59a
+Size: 55780
+Filename: enigma2-plugin-extensions-xstreamity-src_git347+add42f3-r1_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC - Source files
 OE: enigma2-plugin-extensions-xstreamity
@@ -741,15 +741,15 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: enigma2-plugin-extensions-xstreamity
-Version: git346+053cbc9-r1
+Version: git347+add42f3-r1
 Depends: python3, python3-imaging, python3-multiprocessing, python3-pillow, python3-requests
 Section: base
 Architecture: all
 Maintainer: kiddac
-MD5Sum: 3d9f0cb13c877b803acad81228a372f1
-SHA256sum: 56314984033dfba2148da6018c1129202d3677bfdca769b72081a31c064447d6
-Size: 2837028
-Filename: enigma2-plugin-extensions-xstreamity_git346+053cbc9-r1_all.ipk
+MD5Sum: 6cf37824c5a12e4c68d69153b65d67ee
+SHA256sum: c190556a83b15d7fa0a8ea5ee4d76271af583ba38c65771c547b73622c0b368c
+Size: 2836928
+Filename: enigma2-plugin-extensions-xstreamity_git347+add42f3-r1_all.ipk
 Source: enigma2-plugin-extensions-xstreamity.bb
 Description: IPTV Xtream Codes playlists player by KiddaC
 OE: enigma2-plugin-extensions-xstreamity
@@ -2727,8 +2727,8 @@ Version: 2.0+git3+d4891f7-r0
 Section: devel
 Architecture: all
 Maintainer: Cino
-MD5Sum: e6879598b6450884a3e2a189afaa6b37
-SHA256sum: 3d257efd92b0e34334eb157158ab1ca0e23f051db569cb43b10ba6ccb11dc4da
+MD5Sum: 1322821d2cf72ef1d5ee9c837552decf
+SHA256sum: 395753ec0f1546738391b3e7b9373f47879830d9e8898107541fa45de14d127b
 Size: 704
 Filename: enigma2-plugin-skins-cinogriplifhd-dbg_2.0+git3+d4891f7-r0_all.ipk
 Source: enigma2-plugin-skins-cinogriplifhd.bb
@@ -2743,8 +2743,8 @@ Recommends: enigma2-plugin-skins-cinogriplifhd (= 2.0+git3+d4891f7-r0)
 Section: devel
 Architecture: all
 Maintainer: Cino
-MD5Sum: 089d4457301bf0cf6333cc76f686716d
-SHA256sum: 3cf9b47311b6c39c018ad4932f8d5ea1d55f699299baf62be99f992c47b436f5
+MD5Sum: 0192fba61bbfa0ad4a976ab210714722
+SHA256sum: 21c43f5dabdd01565080d31e2979346657d8c4e8b5072d098ef8e3096e776bd3
 Size: 742
 Filename: enigma2-plugin-skins-cinogriplifhd-dev_2.0+git3+d4891f7-r0_all.ipk
 Source: enigma2-plugin-skins-cinogriplifhd.bb
@@ -2759,9 +2759,9 @@ Recommends: enigma2-plugin-extensions-weatherplugin
 Section: base
 Architecture: all
 Maintainer: Cino
-MD5Sum: bde7f439e73d015bd0ca60db4e5140ae
-SHA256sum: 3b8f4a129c15e845b43025dfcccf9344a4112377ed97cbd4014a311d2dcbc156
-Size: 1053500
+MD5Sum: 9f55c59dbf7691085ff62886474867d5
+SHA256sum: ec0c33910021a7a914d840eda9e8eb5e5bf6e42303e20277de6d0cd5407ce748
+Size: 1053436
 Filename: enigma2-plugin-skins-cinogriplifhd_2.0+git3+d4891f7-r0_all.ipk
 Source: enigma2-plugin-skins-cinogriplifhd.bb
 Description: enigma2-plugin-skins-cinogriplifhd version 2.0+gitAUTOINC+d4891f7015-r0
@@ -7033,48 +7033,48 @@ License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common-dbg
-Version: 2+git483+87bfa09-3
+Version: 2+git484+b316703-3
 Section: devel
 Architecture: all
 Maintainer: PLi team
-MD5Sum: ec5ef6ac8accc2d9fd78aa5b611e4b2f
-SHA256sum: 5f907dc6088b9260a83e1d70b079980e03e460a5f19ebb2247f535d2640a0937
+MD5Sum: 68051af9f6397bc2932502572ce3eae9
+SHA256sum: 79f23b9bfe142d2818805fb056c147f9165a180fee7aab63e897aa298528d4db
 Size: 670
-Filename: tuxbox-common-dbg_2+git483+87bfa09-3_all.ipk
+Filename: tuxbox-common-dbg_2+git484+b316703-3_all.ipk
 Source: tuxbox-common.bb
-Description: tuxbox-common version 2+gitAUTOINC+87bfa09e64-3 - Debugging files
+Description: tuxbox-common version 2+gitAUTOINC+b316703c1e-3 - Debugging files
 OE: tuxbox-common
 License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common-dev
-Version: 2+git483+87bfa09-3
-Recommends: tuxbox-common (>= 2+git483+87bfa09-3), tuxbox-common (<< 2+git483+87bfa09-3.0), xz-dev
+Version: 2+git484+b316703-3
+Recommends: tuxbox-common (>= 2+git484+b316703-3), tuxbox-common (<< 2+git484+b316703-3.0), xz-dev
 Section: devel
 Architecture: all
 Maintainer: PLi team
-MD5Sum: 0fbcd2725fdfc4d6eb35b6dc9c03f905
-SHA256sum: b71d3deef778d6f99651810dff2d895d34f6b00833ac3361a09cbfd52d7c8478
+MD5Sum: aa8e5599f710e409042f57b0c107b0b2
+SHA256sum: 707b812d6f231553e796d15f19a4683ee71363810063c26e9cb6428ff9e7261b
 Size: 722
-Filename: tuxbox-common-dev_2+git483+87bfa09-3_all.ipk
+Filename: tuxbox-common-dev_2+git484+b316703-3_all.ipk
 Source: tuxbox-common.bb
-Description: tuxbox-common version 2+gitAUTOINC+87bfa09e64-3 - Development files
+Description: tuxbox-common version 2+gitAUTOINC+b316703c1e-3 - Development files
 OE: tuxbox-common
 License: GPL-2.0-or-later
 Priority: optional
 
 Package: tuxbox-common
-Version: 2+git483+87bfa09-3
+Version: 2+git484+b316703-3
 Depends: xz
 Section: base
 Architecture: all
 Maintainer: PLi team
-MD5Sum: fa60c04224d9693d706359a289140dfc
-SHA256sum: 56d2f4c3ad5f136ae67758f1143cf63b030ede1bf08402aaa038028691504009
-Size: 52414
-Filename: tuxbox-common_2+git483+87bfa09-3_all.ipk
+MD5Sum: ba2dda4173753115807898a3a876b5ee
+SHA256sum: 27f3c4b90a362de273732ed6688de0d5236b359b96d233bbc8d8274423cbc609
+Size: 52382
+Filename: tuxbox-common_2+git484+b316703-3_all.ipk
 Source: tuxbox-common.bb
-Description: tuxbox-common version 2+gitAUTOINC+87bfa09e64-3
+Description: tuxbox-common version 2+gitAUTOINC+b316703c1e-3
 OE: tuxbox-common
 License: GPL-2.0-or-later
 Priority: optional
